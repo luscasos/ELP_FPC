@@ -1,0 +1,21 @@
+Added Component: Designator=BD1(DIOB_GBU8M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4794915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4794915"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GBU8M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SIP-4 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GBU8M/ON%20Semiconductor/view-part/4794915/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_2 Pin=BD1-AC1
+Added Pin To Net: NetName=GND Pin=BD1-NEG
+Added Pin To Net: NetName=NetB1_1 Pin=BD1-POS
+Change Net Name : Old Net Name=NetB1_1 New Net Name=NetBD1_POS
+Change Net Name : Old Net Name=NetB1_2 New Net Name=NetBD1_AC1
+Added Pin To Net: NetName=NetBD1_AC2 Pin=BD1-AC2
+Added Pin To Net: NetName=NetBD1_AC2 Pin=NTC-1
+Added Net: Name=NetBD1_AC2
+Added Member To Class: ClassName=schematic Member=Component BD1 512-KBL06

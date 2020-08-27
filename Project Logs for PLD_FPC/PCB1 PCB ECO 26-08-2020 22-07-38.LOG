@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=C9 Old Footprint=C0805 New Footprint=CAPPRD500W60D1250H2150
+Change Component Footprint: Designator=ZD1 Old Footprint=DIODE-0.7 New Footprint=DIODE-0.4
+Change Component Footprint: Designator=C11 Old Footprint=RAD-0.3 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.3 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C10 Old Footprint=RAD-0.3 New Footprint=RAD-0.2
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=DIODE-0.4
+Change Component Footprint: Designator=D2 Old Footprint=SMC New Footprint=DIODE-0.4
+Change Component Footprint: Designator=D3 Old Footprint=SMC New Footprint=DIODE-0.4
+Change Component Footprint: Designator=LF1 Old Footprint=TRF_4 New Footprint=*IND_B82725S2602N002
+Change Component Comment : Designator=C10 Old Comment=Cap New Comment=B32529C1123K189
+Change Component Comment : Designator=C11 Old Comment=Cap New Comment=FG18C0G1H560JNT00
+Change Component Comment : Designator=C8 Old Comment=Cap New Comment=K224K20X7RF5TH5
+Change Component Comment : Designator=C7 Old Comment=Cap New Comment=K473K10X7RF5UH5
+Change Component Comment : Designator=C9 Old Comment=Cap Pol3 New Comment=B43630A5107M000
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=1N4148
+Change Component Comment : Designator=D3 Old Comment=Diode New Comment=SB140
+Change Component Comment : Designator=D2 Old Comment=Diode New Comment=SBYV26C-E3/54
+Change Component Comment : Designator=ZD1 Old Comment=D Zener New Comment=1N4746
+Change Component Comment : Designator=NTC Old Comment=ERZ-V10D911C1   New Comment=ERZ-V10D911C1
+Change Component Comment : Designator=Q1 Old Comment=NMOS-2 New Comment=FQPF13N50C
+Change Component Comment : Designator=R7 Old Comment=Res1 New Comment=AC01000002007JA100
+Change Component Comment : Designator=R4 Old Comment=Res1 New Comment=MFP-25BRD52-150R
+Change Component Comment : Designator=R10 Old Comment=Res1 New Comment=MFR-25FBF52-2M2
+Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=MFR-25FBF52-10K
+Change Component Comment : Designator=R9 Old Comment=Res1 New Comment=MFR-25FBF52-10K
+Change Component Comment : Designator=R6 Old Comment=Res1 New Comment=MFR-25FBF52-10R
+Change Component Comment : Designator=R11 Old Comment=Res1 New Comment=MFR-25FBF52-13K3
+Change Component Comment : Designator=R5 Old Comment=Res1 New Comment=MFR-25FBF52-20K
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=MFR-25FBF52-56K
+Change Component Comment : Designator=R3 Old Comment=Res1 New Comment=MFR-25FBF52-330K
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=MFR-25FBF52-820K
+Change Component Comment : Designator=LF1 Old Comment=Trans Cupl New Comment=B82733V2232B001
+Change component parameters: Designator = "C9"; Footprint = "CAPPRD500W60D1250H2150"; UniqueID = "\PQVTPBTK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "UCA2W100MHD1TO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UCA2W100MHD1TO/Nichicon/view-part/2315108/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

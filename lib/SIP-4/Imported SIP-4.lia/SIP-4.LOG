@@ -1,0 +1,14 @@
+PCAD Importer Log
+Project : SIP-4.LibPkg
+
+Section : C:\Users\luc_h\Downloads\SIP-4\SIP-4.lia
+    Section : PCB Library - SIP-4.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DCCONTROL On Line 97
+            Warning - 1 : Skipping Token DCLOAD On Line 99
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=T1 Old Footprint=TRF_4 New Footprint=PCBComponent_1
+Change Component Comment : Designator=P2 Old Comment=GND OUT New Comment=
+Change Component Comment : Designator=P1 Old Comment=PFC OUT New Comment=
+Change Component Designator: OldDesignator=P1 NewDesignator=PFC_OUT
+Change Component Designator: OldDesignator=P2 NewDesignator=GND_OUT

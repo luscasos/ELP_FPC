@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Member From Class: ClassName=schematic Member=J1
+Change Component Footprint: Designator=NTC Old Footprint=6-0805_N New Footprint=RAD-0.3
+Change Component Footprint: Designator=V1 Old Footprint=6-0805_N New Footprint=RAD-0.3
+Change Component Footprint: Designator=F1 Old Footprint=PIN-W2/E2.8 New Footprint=FUSAD2668W81L2100D550
+Change Component Comment : Designator=B1 Old Comment=Bridge1 New Comment=512-KBL06
+Change Component Comment : Designator=F1 Old Comment=Fuse 2 New Comment=5MFP-3-R
+Change Component Comment : Designator=NTC Old Comment=Res Thermal New Comment=ERZ-V10D911C1  
+Change Component Comment : Designator=V1 Old Comment=Res Varistor New Comment=MOV-14D471K
+Change component parameters: Designator = "F1"; Footprint = "FUSAD2668W81L2100D550"; UniqueID = "\KBSNLSON"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5MFP-3-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5MFP-3-R/Bel%20Fuse/view-part/4619077/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=AC1(6ESRM-P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comment_1"; Value = "AC1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "6ESRM-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6ESRM-P/TE%20Connectivity%20Corcom%20Filters/view-part/500075/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1609078-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=AC1-1
+Added Pin To Net: NetName=GND Pin=AC1-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetAC1_1
+Added Pin To Net: NetName=NetAC1_3 Pin=AC1-3
+Added Pin To Net: NetName=NetAC1_3 Pin=F1-1
+Added Net: Name=NetAC1_3
+Added Member To Class: ClassName=schematic Member=Component AC1 SK-1010
