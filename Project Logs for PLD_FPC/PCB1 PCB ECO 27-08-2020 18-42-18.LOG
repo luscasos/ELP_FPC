@@ -1,0 +1,19 @@
+Change Component Description : Designator=F1 Old Description=5MFP 3-R (0651R3000-33) New Description=5MFP 3-R (0651R3000-33) | Glass Tube Fuse | Axial Pigtail 5x20mm | UL | Fast Blow | 3A
+Change component parameters: Designator = "BD1" ("BD1"); Footprint = "DIOB_GBU8M"; UniqueID = "\XUMAJULC" ("\XUMAJULC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4794915"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4794915"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GBU8M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SIP-4 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GBU8M/ON%20Semiconductor/view-part/4794915/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUSAD2668W81L2100D550"; UniqueID = "\KBSNLSON" ("\KBSNLSON")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5MFP-3-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5MFP-3-R/Bel%20Fuse/view-part/4619077/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
