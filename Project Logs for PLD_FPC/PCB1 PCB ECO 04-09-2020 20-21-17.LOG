@@ -1,0 +1,67 @@
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.2 New Footprint=RAD-0.4
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.4 New Footprint=CAP15MM
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.4 New Footprint=cap22mm
+Change Component Comment : Designator=C5 Old Comment=ECQ-E2334KFB New Comment=B32922C3334M250
+Change Component Comment : Designator=C2 Old Comment=ECQ-E2474KB New Comment=MPX474K305G
+Change Component Description : Designator=F1 Old Description=5MFP 3-R (0651R3000-33) New Description=5MFP 3-R (0651R3000-33) | Glass Tube Fuse | Axial Pigtail 5x20mm | UL | Fast Blow | 3A
+Change component parameters: Designator = "BD1"; Footprint = "DIOB_GBU8M"; UniqueID = "\XUMAJULC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4794915"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4794915"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GBU8M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SIP-4 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GBU8M/ON%20Semiconductor/view-part/4794915/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1"; Footprint = "FUSAD2668W81L2100D550"; UniqueID = "\KBSNLSON"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5MFP-3-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5MFP-3-R/Bel%20Fuse/view-part/4619077/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=schematic Member=Component AC1 SK-1010
+Added Member To Class: ClassName=schematic Member=Component BD1 512-KBL06
+Added Member To Class: ClassName=schematic Member=Component C1 B32529C3154K000
+Added Member To Class: ClassName=schematic Member=Component C2 MPX474K305G
+Added Member To Class: ClassName=schematic Member=Component C3 S222K59Y5PR63K7R
+Added Member To Class: ClassName=schematic Member=Component C4 S222K59Y5PR63K7R
+Added Member To Class: ClassName=schematic Member=Component C5 B32922C3334M250
+Added Member To Class: ClassName=schematic Member=Component C6 860020472006
+Added Member To Class: ClassName=schematic Member=Component C7 K473K10X7RF5UH5
+Added Member To Class: ClassName=schematic Member=Component C8 K224K20X7RF5TH5
+Added Member To Class: ClassName=schematic Member=Component C9 B43545A5107M000
+Added Member To Class: ClassName=schematic Member=Component C10 B32529C1123K189
+Added Member To Class: ClassName=schematic Member=Component C11 FG18C0G1H560JNT00
+Added Member To Class: ClassName=schematic Member=Component D1 1N4148
+Added Member To Class: ClassName=schematic Member=Component D2 SBYV26C-E3/54
+Added Member To Class: ClassName=schematic Member=Component D3 SB140
+Added Member To Class: ClassName=schematic Member=Component DS Component_1
+Added Member To Class: ClassName=schematic Member=Component F1 5MFP-3-R
+Added Member To Class: ClassName=schematic Member=Component GND_OUT 
+Added Member To Class: ClassName=schematic Member=Component LF1 B82733V2232B001
+Added Member To Class: ClassName=schematic Member=Component NTC ERZ-V10D911C1
+Added Member To Class: ClassName=schematic Member=Component PFC_OUT 
+Added Member To Class: ClassName=schematic Member=Component Q1 FQPF13N50C
+Added Member To Class: ClassName=schematic Member=Component R1 MFR-25FBF52-56K
+Added Member To Class: ClassName=schematic Member=Component R2 MFR-25FBF52-820K
+Added Member To Class: ClassName=schematic Member=Component R3 MFR-25FBF52-330K
+Added Member To Class: ClassName=schematic Member=Component R4 MFP-25BRD52-150R
+Added Member To Class: ClassName=schematic Member=Component R5 MFR-25FBF52-20K
+Added Member To Class: ClassName=schematic Member=Component R6 MFR-25FBF52-10R
+Added Member To Class: ClassName=schematic Member=Component R7 AC01000002007JA100
+Added Member To Class: ClassName=schematic Member=Component R8 MFR-25FBF52-10K
+Added Member To Class: ClassName=schematic Member=Component R9 MFR-25FBF52-10K
+Added Member To Class: ClassName=schematic Member=Component R10 MFR-25FBF52-2M2
+Added Member To Class: ClassName=schematic Member=Component R11 MFR-25FBF52-13K3
+Added Member To Class: ClassName=schematic Member=Component T1 trz 30.010.1
+Added Member To Class: ClassName=schematic Member=Component U1 FAN7530M
+Added Member To Class: ClassName=schematic Member=Component V1 MOV-14D471K
+Added Member To Class: ClassName=schematic Member=Component ZD1 1N4746
+Added Room: Name=schematic
